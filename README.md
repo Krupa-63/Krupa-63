@@ -1,4 +1,4 @@
-# 🚀 YOUR_NAME  
+KRUPA H P
 
 <div align="center">
 
@@ -8,15 +8,15 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="linkedin.com/in/krupa-krupa-4383b9366">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="krupakrupa1689@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -28,7 +28,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=F875AA&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Krupa-63&label=Profile+Views&color=F875AA&style=flat-square" />
 
 </div>
 
@@ -36,41 +36,27 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
-
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
-
+Hi I'm a BCA graduate passionate about technology and software development. I'm interested in Python, SQL, Web development, and data analytics. 
+I enjoy learning new skills, building projects, and improving my technical knowkedge
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+• Python  
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+• Django
 
 ### 💅 Frontend
-• React / Vue / Angular  
 • HTML / CSS  
-• Tailwind / Bootstrap  
+• javascript  
 
 ### 🗄️ Databases
-• PostgreSQL  
 • MySQL  
-• MongoDB  
 
 ### ⚙️ DevOps & Tools
-• Git  
-• Docker  
-• AWS  
-• Linux  
+• VS code
 
 ---
 
@@ -78,9 +64,9 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Krupa-63&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krupa-63&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -90,7 +76,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krupa-63&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -125,8 +111,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 I’m open to working on:
 
-• Open Source Projects  
-• AI/ML Projects  
+• Open Source Projects 
 • Web Applications  
 • Backend Systems  
 
@@ -134,9 +119,8 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: YOUR_EMAIL  
-🔗 LinkedIn: YOUR_LINKEDIN_URL  
-🌐 Portfolio: YOUR_PORTFOLIO_URL  
+📧 Email: krupakrupa1689@gmail.com
+🔗 LinkedIn: linkedin.com/in/krupa-krupa-4383b9366
 
 ---
 
